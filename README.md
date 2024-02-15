@@ -1,4 +1,4 @@
-<h1 style= "textalign = center">Rajasekhar Korada</h1>         
+<h1 style= "text-align: center;">Rajasekhar Korada</h1>         
 
 
   
