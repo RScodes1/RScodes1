@@ -9,9 +9,9 @@
 <br>
 
 <ul>
-    <li>I come from Vizianagaram, Andhra Pradesh</li>
-    <li>Come visit my <a>href = "#"</a> for more professional outings.</li> 
-    <li> You can contact me at <a href = "mailto:raj19all@gmail.com">raj19all@gmail.com</a></li> 
+    <li>📍 I come from Vizianagaram, Andhra Pradesh</li>
+    <li>🖥️ Come visit my <a href = "#"></a> for more professional outings.</li> 
+    <li>📞 You can contact me at <a href = "mailto:raj19all@gmail.com">raj19all@gmail.com</a></li> 
 </ul>
 <br>
 
