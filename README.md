@@ -1,4 +1,3 @@
-<h1 style= "text-align: center">Rajasekhar Korada</h1>         
-
+<h1 style="text-align: center;">Hi, I'm Rajasekhar Korada</h1>
 
   
