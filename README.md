@@ -1,13 +1,6 @@
 <h1 style="text-align: center;">Hi, I'm Rajasekhar Korada</h1>
 <br>
-<br>
 <hr>
-
-
-
-
-
-
 
 <h3>👨‍💻 ABOUT ME </h3>
 <br>
