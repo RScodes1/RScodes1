@@ -16,7 +16,6 @@
 <hr>
 
 <h3>Simple language</h3>
-<br>
     <ul>
         <li>✅ I desgin and develop websites.</li>
         <li>✅  I'm a good learner with great vision and conviction.</li>
