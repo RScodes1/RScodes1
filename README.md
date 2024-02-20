@@ -16,8 +16,8 @@
 
 ## Social Media
 
-[<img src="https://image.flaticon.com/icons/svg/841/841364.svg" alt="CodePen" width="40" height="40">][codepen]
-[<img src="https://image.flaticon.com/icons/svg/732/732190.svg" alt="LeetCode" width="40" height="40">][leetcode]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="CodePen" width="40" height="40">][codepen]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40">][leetcode]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">][twitter]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">][linkedin]
 
