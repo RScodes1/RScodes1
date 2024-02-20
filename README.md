@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
-<p align="center">
+<p>
   <a href="https://twitter.com/charmerGod2">
     <img src="https://img.shields.io/twitter/follow/charmerGod2?style=social" alt="Twitter">
   </a>
