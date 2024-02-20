@@ -35,6 +35,17 @@
 <br>
 <hr>
 
+## Languages and Tools
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">][python-docs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">][javascript-docs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">][java-docs]
+
+[python-docs]: https://docs.python.org/3/
+[javascript-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[java-docs]: https://docs.oracle.com/en/java/
+
+
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RScodes1&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RScodes1&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/project-timeline?username=RScodes1&theme=github_dark&utcOffset=8)  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RScodes1&show_icons=true&theme=radical)
