@@ -65,9 +65,9 @@
 <hr>
 
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RScodes1&theme=github_dark) 
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RScodes1&theme=github_dark)   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RScodes1&show_icons=true&theme=radical)
+
    ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RScodes1&theme=github_dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RScodes1&show_icons=true&locale=en&layout=compact)
 
 
- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RScodes1&show_icons=true&theme=radical)
