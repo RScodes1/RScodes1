@@ -3,7 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RScodes1&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInProfile](https://www.linkedin.com/in/rajasekhar-korada-14b417177/)-blue)](https://www.linkedin.com/in/[YourLinkedInProfile](https://www.linkedin.com/in/rajasekhar-korada-14b417177/))
+
 
 
 <h3>👨‍💻 ABOUT ME </h3>
@@ -29,4 +30,5 @@
 <br>
 <hr>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RScodes1&show_icons=true&theme=radical)
 
