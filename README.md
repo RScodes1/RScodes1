@@ -12,6 +12,21 @@
   </a>
 </p>
 
+## Languages and Tools
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">][html-docs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">][css-docs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">][javascript-docs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">][nodejs-docs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">][mongodb-docs]
+
+[html-docs]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css-docs]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[nodejs-docs]: https://nodejs.org/en/docs/
+[mongodb-docs]: https://docs.mongodb.com/
+
+
 <h3>👨‍💻 ABOUT ME </h3>
 
 <h3 style ="text-align = center;">I'm a Full Stack Web Developer skilled in backend developement precisely. My passion for software lies with dreaming up ideas and making them come true with elegany interfaces. I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Strucutures & Algorithms. </h3>
@@ -34,16 +49,6 @@
     </ul>
 <br>
 <hr>
-
-## Languages and Tools
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">][python-docs]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">][javascript-docs]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">][java-docs]
-
-[python-docs]: https://docs.python.org/3/
-[javascript-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[java-docs]: https://docs.oracle.com/en/java/
 
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RScodes1&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RScodes1&show_icons=true&locale=en&layout=compact)
