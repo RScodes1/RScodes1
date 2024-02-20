@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/RajaSekharKorada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RajaSekhar Korada-blue)](https://www.linkedin.com/in/RajaSekharKorada)
 
 
 <h3>👨‍💻 ABOUT ME </h3>
