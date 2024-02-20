@@ -59,7 +59,7 @@
         <li>✅ I desgin and develop websites.</li>
         <li>✅  I'm a good learner with great vision and conviction.</li>
         <li>✅ I am looking for wide variety of opportunities as Full Stack Web Developer to be an expert in buliding the world wide web.</li>
-          <li>✅ I sing songs and play games.</li>
+        <li>✅ I sing songs and play games.</li>
     </ul>
 <br>
 <hr>
