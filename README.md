@@ -1,10 +1,10 @@
 <h1 align="center">Hi,👋 I'm Rajasekhar Korada</h1>
 <h3 align="center">Node.js Backend Developer</h3>
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RScodes1)
-
 
 <p>
   <a href="https://www.linkedin.com/in/rajasekhar-korada-14b417177/">
