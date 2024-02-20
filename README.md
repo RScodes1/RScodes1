@@ -74,5 +74,6 @@
 
 
    ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RScodes1&theme=github_dark)
+  ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sekharcodes)
 
 
