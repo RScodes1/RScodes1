@@ -1,6 +1,5 @@
 Hi,👋 I'm Rajasekhar Korada
 <br>
-<hr>
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
 <h3>👨‍💻 ABOUT ME </h3>
