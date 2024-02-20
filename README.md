@@ -1,4 +1,4 @@
-Hi,👋 I'm Rajasekhar Korada
+<h1 align="center">Hi,👋 I'm Rajasekhar Korada</h1>
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
