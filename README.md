@@ -5,6 +5,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInProfile](https://www.linkedin.com/in/rajasekhar-korada-14b417177/)-blue)](https://www.linkedin.com/in/[YourLinkedInProfile](https://www.linkedin.com/in/rajasekhar-korada-14b417177/))
 
+<p align="center">
+  <a href="https://twitter.com/charmerGod2">
+    <img src="https://img.shields.io/twitter/follow/charmerGod2?style=social" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile">
+    <img src="https://img.shields.io/badge/RajaSekhar Korada" alt="LinkedIn">
+  </a>
+</p>
 
 
 <h3>👨‍💻 ABOUT ME </h3>
