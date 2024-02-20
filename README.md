@@ -1,7 +1,5 @@
 <h1 align="center">Hi,👋 I'm Rajasekhar Korada</h1>
 <h2 align="center">Node.js Backend Developer</h2>
-
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
 <h3>👨‍💻 ABOUT ME </h3>
