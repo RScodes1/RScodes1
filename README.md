@@ -1,6 +1,22 @@
 <h1 align="center">Hi,👋 I'm Rajasekhar Korada</h1>
 <h3 align="center">Node.js Backend Developer</h3>
 
+<p align="center">
+  <!-- Replace each sentence with the next version containing more text -->
+  My name is <span id="typed-text"></span>
+</p>
+
+<!-- Include multiple versions of the sentence with gradually increasing text -->
+<span id="typed-text" style="display: none;">My name is J</span>
+<span id="typed-text" style="display: none;">My name is Jo</span>
+<span id="typed-text" style="display: none;">My name is Joh</span>
+<span id="typed-text" style="display: none;">My name is John</span>
+<span id="typed-text" style="display: none;">My name is John D</span>
+<span id="typed-text" style="display: none;">My name is John Do</span>
+<span id="typed-text" style="display: none;">My name is John Doe</span>
+<span id="typed-text" style="display: none;">My name is John Doe.</span>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RScodes1)
