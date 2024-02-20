@@ -16,7 +16,7 @@
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">][twitter]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">][linkedin]
-[<img src="(https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)" alt="Instagram" width="40" height="40">][instagram]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40">][instagram]
 
 [twitter]: https://twitter.com/charmerGod2
 [linkedin]: https://www.linkedin.com/in/rajasekhar-korada-14b417177/
