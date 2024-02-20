@@ -43,7 +43,7 @@
 
 <h3>👨‍💻 ABOUT ME </h3>
 
-<h3 style ="text-align = center;">I'm a Full Stack Web Developer skilled in backend developement precisely. My passion for software lies with dreaming up ideas and making them come true with elegany interfaces. I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Strucutures & Algorithms. </h3>
+<p style ="text-align = center;"><em>I'm a Full Stack Web Developer skilled in backend developement precisely. My passion for software lies with dreaming up ideas and making them come true with elegany interfaces. I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Strucutures & Algorithms.</em></p>
 
 <br>
 <ul>
