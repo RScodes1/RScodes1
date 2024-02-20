@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YourLinkedInProfile](https://www.linkedin.com/in/rajasekhar-korada-14b417177/)-blue)](https://www.linkedin.com/in/[YourLinkedInProfile](https://www.linkedin.com/in/rajasekhar-korada-14b417177/))
-
 <p align="center">
   <a href="https://twitter.com/charmerGod2">
     <img src="https://img.shields.io/twitter/follow/charmerGod2?style=social" alt="Twitter">
