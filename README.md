@@ -1,7 +1,7 @@
 Hi,👋 I'm Rajasekhar Korada
 <br>
 <hr>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![profile views](https://img.shields.io/badge/:badgeContent)
 
 <h3>👨‍💻 ABOUT ME </h3>
 
