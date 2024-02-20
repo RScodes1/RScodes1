@@ -7,7 +7,7 @@
   <a href="https://twitter.com/charmerGod2">
     <img src="https://img.shields.io/twitter/follow/charmerGod2?style=social" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile">
+  <a href="https://www.linkedin.com/in/RajaSekhar Korada">
     <img src="https://img.shields.io/badge/RajaSekhar Korada" alt="LinkedIn">
   </a>
 </p>
