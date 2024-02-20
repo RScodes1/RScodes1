@@ -1,41 +1,6 @@
 <h1 align="center">Hi,👋 I'm Rajasekhar Korada</h1>
 <h3 align="center">Node.js Backend Developer</h3>
 
-<p align="center">
-  <span id="typed-text"></span><span id="cursor">|</span>
-</p>
-
-<script>
-  const text = "Code code code.";
-  let index = 0;
-
-  function type() {
-    if (index < text.length) {
-      document.getElementById("typed-text").innerText += text.charAt(index);
-      index++;
-      setTimeout(type, 100); // Adjust typing speed here (in milliseconds)
-    }
-  }
-
-  type();
-</script>
-
-<style>
-  #cursor {
-    animation: blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes blink-caret {
-    from, to {
-      border-color: transparent;
-    }
-    50% {
-      border-color: black;
-    }
-  }
-</style>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RScodes1)
