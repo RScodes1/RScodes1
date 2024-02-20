@@ -12,14 +12,6 @@
   </a>
 </p>
 
-## Connect with me
-
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter] [<img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="Instagram" width="40" height="40">][instagram]
-
-[twitter]: https://twitter.com/charmerGod2
-[instagram]: https://www.instagram.com/memeheist_t/
-
-
 ## Languages and Tools
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">][html-docs]
