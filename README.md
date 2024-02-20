@@ -3,6 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RScodes1&color=brightgreen)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=RScodes1)
+
+
 <p>
   <a href="https://www.linkedin.com/in/rajasekhar-korada-14b417177/">
     <img src="https://img.shields.io/badge/LinkedIn-rajasekhar--korada--14b417177-blue" alt="LinkedIn">
