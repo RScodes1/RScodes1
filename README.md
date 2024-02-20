@@ -1,6 +1,7 @@
-<h1 style="text-align: center">Hi, I'm Rajasekhar Korada</h1>
+Hi,👋 I'm Rajasekhar Korada
 <br>
 <hr>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 <h3>👨‍💻 ABOUT ME </h3>
 
@@ -24,4 +25,5 @@
     </ul>
 <br>
 <hr>
+
 
