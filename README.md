@@ -12,6 +12,13 @@
   </a>
 </p>
 
+Connect with me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/charmerGod2
+[linkedin]: https://www.linkedin.com/in/rajasekhar-korada-14b417177/
 
 <h3>👨‍💻 ABOUT ME </h3>
 
