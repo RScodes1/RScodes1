@@ -1,7 +1,7 @@
 Hi,👋 I'm Rajasekhar Korada
 <br>
 <hr>
-![profile views](https://img.shields.io/badge/:badgeContent)
+![Profile Views](https://komarev.com/ghpvc/?username=RScodes1)
 
 <h3>👨‍💻 ABOUT ME </h3>
 
