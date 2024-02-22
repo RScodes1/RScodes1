@@ -14,8 +14,6 @@
 
 ## Social Media
 
-## Social Media
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rajasekhar-korada-14b417177/
