@@ -22,7 +22,7 @@
 
 ### My Portfolio
 
-<iframe src="https://rscodes1.github.io/" style="width:100%; height:600px;"></iframe>
+<a src="https://rscodes1.github.io/" style="width:100%; height:600px;"></a>
 
 
 ## Languages and Tools
