@@ -46,7 +46,7 @@
 <br>
 <ul>
     <li>📍 I come from Vizianagaram, Andhra Pradesh</li>
-    <li>🖥️ Come visit my https://mental-health-raj.netlify.app/ for more professional outings.</li> 
+    <li>🖥️ Come visit my https://rscodes1.github.io/ for more professional outings.</li> 
     <li>📞 You can contact me at <a href = "mailto:raj19all@gmail.com">raj19all@gmail.com</a></li> 
      <li>💬 Ask me about Node.js,DSA, MongoDb,MySql,JavaScript,GitHub</li>
 </ul>
