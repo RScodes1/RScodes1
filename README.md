@@ -49,15 +49,15 @@ portfolio : https://rscodes1.github.io/
     <li>📍 I come from Vizianagaram, Andhra Pradesh</li>
     <li>🖥️ Come visit my https://rscodes1.github.io/ for more professional outings.</li> 
     <li>📞 You can contact me at <a href = "mailto:raj19all@gmail.com">raj19all@gmail.com</a></li> 
-     <li>💬 Ask me about Node.js,DSA, MongoDb,MySql,JavaScript,GitHub</li>
+     <li>💬 Ask me about Node.js, PostgreSQL, MongoDb, MySql, DevOps</li>
 </ul>
 <br>
 <hr>
 
 <h3>Simple language</h3>
     <ul>
-        <li>✅ I desgin and develop websites.</li>
-        <li>✅  I'm a good learner with great vision and conviction.</li>
+        <li>✅ I design and develop websites.</li>
+        <li>✅ I'm a good learner with great vision and conviction.</li>
         <li>✅ I am looking for wide variety of opportunities as Full Stack Web Developer to be an expert in buliding the world wide web.</li>
         <li>✅ I sing songs and play games.</li>
     </ul>
